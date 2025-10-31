@@ -1,1 +1,1 @@
-[Try on GitHub Pages](https://michalkuracina.github.io/001-Starfield/])
+[Try on GitHub Pages](https://michalkuracina.github.io/001-Starfield/)
